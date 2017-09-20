@@ -1,8 +1,7 @@
 ## Advanced Lane Finding Project
 ### Self Driving Car
 
-The goals / steps of this project are the following:
-
+The goals/steps of this project are the following:
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
 * Use color transforms, gradients, etc., to create a thresholded binary image.
@@ -22,9 +21,7 @@ The goals / steps of this project are the following:
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 
-### [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
-
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
+#### [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
 ---
 ### Camera Calibration
