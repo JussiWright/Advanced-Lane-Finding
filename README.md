@@ -26,7 +26,7 @@ The goals/steps of this project are the following:
 ---
 ### Camera Calibration
 
-#### 1. Briefly state how I computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
+#### 1. Camera matrix and distortion coefficients and an example of a distortion corrected calibration image.
 
 The code for this step is contained in the first code cell of the IPython notebook located in "./examples/example.ipynb" (or in lines # through # of the file called `some_file.py`).  
 
