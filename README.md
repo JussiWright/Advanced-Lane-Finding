@@ -3,7 +3,7 @@
 #### Self Driving Car Project for Udacity
 - Kesken -
 
-![alt text][image1]
+![alt text][image6]
 
 The goals of this project on tunnistaa ja merkitä videoon lane lines,
 auton sijainti suhteessa kaistan keskikohtaan sekä tien kaarevuussäde. 
