@@ -240,7 +240,7 @@ Jos ohjelma ei löydä viivaa oletetulta alueelta, niin silloin ohjelma skannaa 
 Jotta lopputuloksesta tulisi pehmeä käytetään merkinnässä usean kuvan keskiarvoa.
 
 Project Video
-[link to my video result](./project_video.mp4)
+[link to my video result](https://youtu.be/FmQuLanfanI)
 
 
 ### Discussion
