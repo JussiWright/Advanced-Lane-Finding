@@ -56,10 +56,7 @@ I start by preparing "object points", which are (x, y, z) coordinates of the che
 
 `objpoints` and `imgpoints` are then used to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function. I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result: 
 
-Kuva vaaristyneestä sakkilaudasta
-![alt text][image1]
-
-Kuva suoristetusta sakkilaudasta
+Kuva vaaristyneestä ja suoristetusta sakkilaudasta
 ![alt text][image1]
 
 
@@ -74,10 +71,9 @@ Kuvan vääristymän korjaus tapahtui kalibroimalla kamera OpenCV function `cali
 
 
 Original Image (distorted)
-![alt text][image1]
 
-Undistorted Image (corrected)
-![alt text][image1]
+
+
 
 
 #### 2. Description of used color transforms, gradients or other methods to create a thresholded binary image and example of a binary image result.
