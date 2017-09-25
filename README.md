@@ -57,10 +57,10 @@ I start by preparing "object points", which are (x, y, z) coordinates of the che
 `objpoints` and `imgpoints` are then used to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function. I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result: 
 
 Kuva vaaristyneestä sakkilaudasta
-![alt text][image2]
+![alt text][image1]
 
 Kuva suoristetusta sakkilaudasta
-![alt text][image2]
+![alt text][image1]
 
 
 ### Pipeline (single images)
