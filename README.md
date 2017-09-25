@@ -242,9 +242,6 @@ Jotta lopputuloksesta tulisi pehmeä käytetään merkinnässä usean kuvan kesk
 Project Video
 [link to my video result](./project_video.mp4)
 
-Challence Video
-[link to my video result](./project_video.mp4)
----
 
 ### Discussion
 
